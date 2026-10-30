@@ -19,7 +19,7 @@
 <p align="center">
   <a href="docs/Guide_Prompts_QA_Workflow.pdf"><b>📄 Guide des prompts (PDF)</b></a> ·
   <a href="prompts/"><b>📚 Prompts</b></a> ·
-  <a href="docs/demo.md"><b>🎥 Démo</b></a> ·
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7521971767494471680/"><b>🎥 Vidéo de démo</b></a> ·
   <a href="docs/mcp-setup.md"><b>⚙️ Installation</b></a>
 </p>
 
@@ -138,7 +138,7 @@ claude-mcp-qa-automation/
 **Adam Chouk** · Fullstack Spring | DevOps | QA Automation
 
 [![GitHub](https://img.shields.io/badge/GitHub-adama007-181717?logo=github)](https://github.com/adama007)
-<!-- Ajouter ici le lien LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Chouk-0A66C2?logo=linkedin)](https://www.linkedin.com/in/VOTRE-PROFIL) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Chouk-0A66C2?logo=linkedin)](https://www.linkedin.com/in/adam-chouk-8b709821b/)
 
 ---
 
