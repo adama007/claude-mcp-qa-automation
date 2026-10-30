@@ -1,0 +1,1901 @@
+%PDF-1.4
+%ASCI ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/PageMode /UseNone /Pages 15 0 R /Type /Catalog
+>>
+endobj
+14 0 obj
+<<
+/Author (Adam Chouk) /CreationDate (D:20000101000000+00'00') /Creator (Claude) /Keywords () /ModDate (D:20000101000000+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Prompts QA: Jira, Gherkin, Selenium) /Title (Guide de Prompts QA Automation - Claude MCP) /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 6 /Kids [ 4 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Type /Pages
+>>
+endobj
+16 0 obj
+<<
+/Length 7868
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.117647 .105882 .294118 rg
+n 0 515.9055 595.2756 325.9843 re f*
+.85098 .466667 .341176 rg
+n 56.69291 728.5039 51.02362 6.23622 re f*
+1 1 1 rg
+BT /F2 30 Tf 36 TL ET
+BT 1 0 0 1 56.69291 677.4803 Tm (Guide Strat\351gique de Prompts) Tj T* ET
+BT 1 0 0 1 56.69291 640.6299 Tm (QA Automation) Tj T* ET
+BT /F1 13 Tf 15.6 TL ET
+.780392 .823529 .996078 rg
+BT 1 0 0 1 56.69291 600.9449 Tm (Workflow pilot\351 par Claude via MCP : Jira, Gherkin & Selenium) Tj T* ET
+.85098 .466667 .341176 rg
+n
+66.61417 552.7559 m
+94.11165 552.7559 l
+99.59613 552.7559 104.0329 557.1927 104.0329 562.6772 c
+104.0329 562.6772 l
+104.0329 568.1616 99.59613 572.5984 94.11165 572.5984 c
+66.61417 572.5984 l
+61.1297 572.5984 56.69291 568.1616 56.69291 562.6772 c
+56.69291 562.6772 l
+56.69291 557.1927 61.1297 552.7559 66.61417 552.7559 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 63.69291 559.5591 Tm (Claude) Tj T* ET
+.486275 .227451 .929412 rg
+n
+119.9542 552.7559 m
+136.3317 552.7559 l
+141.8161 552.7559 146.2529 557.1927 146.2529 562.6772 c
+146.2529 562.6772 l
+146.2529 568.1616 141.8161 572.5984 136.3317 572.5984 c
+119.9542 572.5984 l
+114.4697 572.5984 110.0329 568.1616 110.0329 562.6772 c
+110.0329 562.6772 l
+110.0329 557.1927 114.4697 552.7559 119.9542 552.7559 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 117.0329 559.5591 Tm (MCP) Tj T* ET
+.145098 .388235 .921569 rg
+n
+162.1742 552.7559 m
+174.1217 552.7559 l
+179.6061 552.7559 184.0429 557.1927 184.0429 562.6772 c
+184.0429 562.6772 l
+184.0429 568.1616 179.6061 572.5984 174.1217 572.5984 c
+162.1742 572.5984 l
+156.6897 572.5984 152.2529 568.1616 152.2529 562.6772 c
+152.2529 562.6772 l
+152.2529 557.1927 156.6897 552.7559 162.1742 552.7559 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 159.2529 559.5591 Tm (Jira) Tj T* ET
+.086275 .639216 .290196 rg
+n
+199.9642 552.7559 m
+238.5817 552.7559 l
+244.0661 552.7559 248.5029 557.1927 248.5029 562.6772 c
+248.5029 562.6772 l
+248.5029 568.1616 244.0661 572.5984 238.5817 572.5984 c
+199.9642 572.5984 l
+194.4797 572.5984 190.0429 568.1616 190.0429 562.6772 c
+190.0429 562.6772 l
+190.0429 557.1927 194.4797 552.7559 199.9642 552.7559 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 197.0429 559.5591 Tm (Selenium) Tj T* ET
+.086275 .639216 .290196 rg
+n
+264.4242 552.7559 m
+338.0317 552.7559 l
+343.5161 552.7559 347.9529 557.1927 347.9529 562.6772 c
+347.9529 562.6772 l
+347.9529 568.1616 343.5161 572.5984 338.0317 572.5984 c
+264.4242 572.5984 l
+258.9397 572.5984 254.5029 568.1616 254.5029 562.6772 c
+254.5029 562.6772 l
+254.5029 557.1927 258.9397 552.7559 264.4242 552.7559 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 261.5029 559.5591 Tm (Cucumber / BDD) Tj T* ET
+.278431 .333333 .411765 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 56.69291 56.69291 Tm (Adam Chouk  |  github.com/adama007/claude-mcp-qa-automation) Tj T* ET
+BT 1 0 0 1 426.1817 56.69291 Tm (Version 2.0  |  Octobre 2026) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 480.9055 cm
+q
+BT 1 0 0 1 0 19 Tm 14.5 TL /F1 10 Tf .058824 .090196 .164706 rg (Ce guide r\351unit les prompts utilis\351s pour automatiser le cycle de vie des tests avec ) Tj /F2 10 Tf (Claude) Tj /F1 10 Tf (, connect\351 \340) Tj T* /F2 10 Tf (Jira) Tj /F1 10 Tf ( et ) Tj /F2 10 Tf (Selenium) Tj /F1 10 Tf ( gr\342ce au ) Tj /F2 10 Tf (Model Context Protocol \(MCP\)) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.9055 cm
+q
+BT 1 0 0 1 0 19 Tm 14.5 TL /F1 10 Tf .058824 .090196 .164706 rg (Apr\350s la configuration des deux serveurs MCP, un workflow simple couvre trois actions : ) Tj /F2 10 Tf (la cr\351ation des) Tj T* (sc\351narios) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (l'ex\351cution en temps r\351el) Tj /F1 10 Tf ( et ) Tj /F2 10 Tf (la d\351claration de bug) Tj /F1 10 Tf ( apr\350s l'ex\351cution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.9055 cm
+Q
+q
+1 0 0 1 62.69291 410.9055 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Vue d'ensemble) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 266.9055 cm
+q
+.117647 .105882 .294118 rg
+n 0 140 481.8898 -20 re f*
+1 1 1 rg
+n 0 120 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 100 481.8898 -20 re f*
+1 1 1 rg
+n 0 80 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 60 481.8898 -20 re f*
+1 1 1 rg
+n 0 40 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 20 481.8898 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (MCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Sortie) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Connexion \340 Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Liste des projets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 84 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (Initialisation & ticket Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Ticket QA en To Do \(KAN-20\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Conception BDD \(Gherkin\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Fichier login.feature) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 44 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (Ex\351cution Selenium & synchronisation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Selenium + Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 44 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (KAN-20 -) Tj (> Done, rapport) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 24 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (Workflow am\351lioration & reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Selenium + Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 24 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (KAN-21 -) Tj (> In Progress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Gestion des anomalies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 215.7638 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306.4724 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Bug KAN-22 li\351 \340 KAN-21) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.4 w
+n 0 140 m 481.8898 140 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 140 l S
+n 481.8898 0 m 481.8898 140 l S
+n 0 120 m 481.8898 120 l S
+n 0 100 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 34.01575 0 m 34.01575 140 l S
+n 209.7638 0 m 209.7638 140 l S
+n 300.4724 0 m 300.4724 140 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+17 0 obj
+<<
+/Length 8819
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .466667 .341176 rg
+n 0 835.8898 595.2756 6 re f*
+BT /F1 8 Tf 9.6 TL ET
+.278431 .333333 .411765 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (Guide Strat\351gique de Prompts QA Automation  |  Claude x MCP) Tj T* ET
+BT 1 0 0 1 513.2307 34.01575 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.117647 .105882 .294118 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Le workflow en un coup d'oeil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 745.8661 cm
+q
+.278431 .333333 .411765 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (De la sp\351cification au rapport de bug, chaque \351tape correspond \340 un prompt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 731.8661 cm
+Q
+q
+1 0 0 1 62.69291 611.8661 cm
+q
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+0 0 0 RG
+[] 0 d
+0 J
+0 j
+1 w
+1 0 0 1 0 0 cm
+q
+1 0 0 1 0 0 cm
+q
+.278431 .333333 .411765 rg
+[] 0 d
+0 J
+0 j
+1 w
+n
+6 60 m
+60 60 l
+63.3168 60 66 62.6832 66 66 c
+66 98 l
+66 101.3168 63.3168 104 60 104 c
+6 104 l
+2.6832 104 0 101.3168 0 98 c
+0 66 l
+0 62.6832 2.6832 60 6 60 c
+h
+f*
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 6.548 83 Tm (Sp\351cification) Tj T* ET
+Q
+q
+.058824 .090196 .164706 RG
+[] 0 d
+0 J
+0 j
+1 w
+n 68 82 m 76.5 82 l S
+Q
+q
+.058824 .090196 .164706 rg
+[] 0 d
+0 J
+0 j
+1 w
+n 77.5 82 m 72.5 85 l 72.5 79 l h
+f*
+Q
+q
+.278431 .333333 .411765 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.216 46 Tm (Entr\351e) Tj T* ET
+Q
+q
+.145098 .388235 .921569 rg
+[] 0 d
+0 J
+0 j
+1 w
+n
+85.5 60 m
+139.5 60 l
+142.8168 60 145.5 62.6832 145.5 66 c
+145.5 98 l
+145.5 101.3168 142.8168 104 139.5 104 c
+85.5 104 l
+82.1832 104 79.5 101.3168 79.5 98 c
+79.5 66 l
+79.5 62.6832 82.1832 60 85.5 60 c
+h
+f*
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 91.47525 83 Tm (Ticket Jira) Tj T* ET
+Q
+q
+.058824 .090196 .164706 RG
+[] 0 d
+0 J
+0 j
+1 w
+n 147.5 82 m 156 82 l S
+Q
+q
+.058824 .090196 .164706 rg
+[] 0 d
+0 J
+0 j
+1 w
+n 157 82 m 152 85 l 152 79 l h
+f*
+Q
+q
+.278431 .333333 .411765 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 96.488 46 Tm (\311tape 01) Tj T* ET
+Q
+q
+.086275 .639216 .290196 rg
+[] 0 d
+0 J
+0 j
+1 w
+n
+165 60 m
+219 60 l
+222.3168 60 225 62.6832 225 66 c
+225 98 l
+225 101.3168 222.3168 104 219 104 c
+165 104 l
+161.6832 104 159 101.3168 159 98 c
+159 66 l
+159 62.6832 161.6832 60 165 60 c
+h
+f*
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 171.685 88 Tm (Sc\351narios) Tj T* ET
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 175.9393 77 Tm (Gherkin) Tj T* ET
+Q
+q
+.058824 .090196 .164706 RG
+[] 0 d
+0 J
+0 j
+1 w
+n 227 82 m 235.5 82 l S
+Q
+q
+.058824 .090196 .164706 rg
+[] 0 d
+0 J
+0 j
+1 w
+n 236.5 82 m 231.5 85 l 231.5 79 l h
+f*
+Q
+q
+.278431 .333333 .411765 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 175.988 46 Tm (\311tape 02) Tj T* ET
+Q
+q
+.086275 .639216 .290196 rg
+[] 0 d
+0 J
+0 j
+1 w
+n
+244.5 60 m
+298.5 60 l
+301.8168 60 304.5 62.6832 304.5 66 c
+304.5 98 l
+304.5 101.3168 301.8168 104 298.5 104 c
+244.5 104 l
+241.1832 104 238.5 101.3168 238.5 98 c
+238.5 66 l
+238.5 62.6832 241.1832 60 244.5 60 c
+h
+f*
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 251.1893 88 Tm (Ex\351cution) Tj T* ET
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 252.6045 77 Tm (Selenium) Tj T* ET
+Q
+q
+.058824 .090196 .164706 RG
+[] 0 d
+0 J
+0 j
+1 w
+n 306.5 82 m 315 82 l S
+Q
+q
+.058824 .090196 .164706 rg
+[] 0 d
+0 J
+0 j
+1 w
+n 316 82 m 311 85 l 311 79 l h
+f*
+Q
+q
+.278431 .333333 .411765 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 255.488 46 Tm (\311tape 03) Tj T* ET
+Q
+q
+.145098 .388235 .921569 rg
+[] 0 d
+0 J
+0 j
+1 w
+n
+324 60 m
+378 60 l
+381.3168 60 384 62.6832 384 66 c
+384 98 l
+384 101.3168 381.3168 104 378 104 c
+324 104 l
+320.6832 104 318 101.3168 318 98 c
+318 66 l
+318 62.6832 320.6832 60 324 60 c
+h
+f*
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 328.798 88 Tm (Mise \340 jour) Tj T* ET
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 343.4393 77 Tm (Jira) Tj T* ET
+Q
+q
+.058824 .090196 .164706 RG
+[] 0 d
+0 J
+0 j
+1 w
+n 386 82 m 394.5 82 l S
+Q
+q
+.058824 .090196 .164706 rg
+[] 0 d
+0 J
+0 j
+1 w
+n 395.5 82 m 390.5 85 l 390.5 79 l h
+f*
+Q
+q
+.278431 .333333 .411765 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 334.988 46 Tm (\311tape 03) Tj T* ET
+Q
+q
+.85098 .466667 .341176 rg
+[] 0 d
+0 J
+0 j
+1 w
+n
+403.5 60 m
+457.5 60 l
+460.8168 60 463.5 62.6832 463.5 66 c
+463.5 98 l
+463.5 101.3168 460.8168 104 457.5 104 c
+403.5 104 l
+400.1832 104 397.5 101.3168 397.5 98 c
+397.5 66 l
+397.5 62.6832 400.1832 60 403.5 60 c
+h
+f*
+Q
+q
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 407.5925 83 Tm (Ticket BUG) Tj T* ET
+Q
+q
+.278431 .333333 .411765 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 414.488 46 Tm (\311tape 05) Tj T* ET
+Q
+q
+.278431 .333333 .411765 rg
+BT /F4 8.5 Tf 10.2 TL ET
+BT /F4 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 0 12 Tm (Claude orchestre chaque \351tape via le Model Context Protocol \(MCP\) : Jira pour les tickets, Selenium pour le navigateur.) Tj T* ET
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 601.8661 cm
+Q
+q
+1 0 0 1 62.69291 576.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Pr\351requis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Claude Desktop avec les serveurs MCP ) Tj /F2 10 Tf (Atlassian \(Jira\)) Tj /F1 10 Tf ( et ) Tj /F2 10 Tf (Selenium) Tj /F1 10 Tf ( configur\351s.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Un projet Jira \(dans la d\351mo : ) Tj /F2 10 Tf (My Software Team) Tj /F1 10 Tf (, cl\351 ) Tj /F2 10 Tf (KAN) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 526.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Une sp\351cification du module \340 tester, jointe dans la conversation \(ex. ) Tj /F4 10 Tf (Login) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Application test\351e : ) Tj /F2 10 Tf (https://www.saucedemo.com/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Variables \340 remplacer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 401.8661 cm
+q
+.117647 .105882 .294118 rg
+n 0 80 481.8898 -20 re f*
+1 1 1 rg
+n 0 60 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 40 481.8898 -20 re f*
+1 1 1 rg
+n 0 20 481.8898 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 64 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Variable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 147.7323 64 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (<) Tj (EMAIL_TESTEUR) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 147.7323 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Email Atlassian du testeur \340 qui assigner les tickets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (My Software Team) Tj T* ET
+Q
+Q
+q
+1 0 0 1 147.7323 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Nom de votre projet Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (KAN-20, KAN-21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 147.7323 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Cl\351s de vos tickets) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.4 w
+n 0 80 m 481.8898 80 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 80 l S
+n 481.8898 0 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 141.7323 0 m 141.7323 80 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 376.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Connexion \340 Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 358.3661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14.5 TL /F2 10 Tf .058824 .090196 .164706 rg (00) Tj /F1 10 Tf ( - V\351rifier que le MCP Atlassian fonctionne avant de lancer le workflow :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 326.3661 cm
+q
+.945098 .960784 .976471 rg
+n 0 28 481.8898 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3.2 Tm /F5 8.8 Tf 12 TL (Connecte-toi \340 Jira et donne-moi la liste des projets existants.) Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 28 m 481.8898 28 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 28 l S
+n 481.8898 0 m 481.8898 28 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 28 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+18 0 obj
+<<
+/Length 4355
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .466667 .341176 rg
+n 0 835.8898 595.2756 6 re f*
+BT /F1 8 Tf 9.6 TL ET
+.278431 .333333 .411765 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (Guide Strat\351gique de Prompts QA Automation  |  Claude x MCP) Tj T* ET
+BT 1 0 0 1 513.2307 34.01575 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 22 TL /F2 18 Tf .85098 .466667 .341176 rg (01) Tj .117647 .105882 .294118 rg ( Initialisation & ticket Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 745.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf .278431 .333333 .411765 rg (R\364le :) Tj /F1 9.5 Tf ( Expert QA & Jira | ) Tj /F2 9.5 Tf (MCP :) Tj /F1 9.5 Tf ( Atlassian \(Jira\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 460.8661 cm
+q
+.945098 .960784 .976471 rg
+n 0 256 481.8898 -256 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 231.2 Tm /F5 8.8 Tf 12 TL (Tu es un expert QA et Jira.) Tj T* (Lis seulement le fichier \253 Login \273 fourni en contexte.) Tj T* (Cr\351e un ticket Jira de type "TODO" pour un testeur QA dans le projet) Tj T* ("My Software Team".) Tj T*  T* (Contexte :) Tj T* (- Testeur assign\351 : <EMAIL_TESTEUR>) Tj T* (- Module : Login) Tj T* (- Objectif : automatiser les tests du module login) Tj T*  T* (Le ticket doit contenir :) Tj T* (- Titre clair) Tj T* (- Description d\351taill\351e) Tj T* (- Objectif du test) Tj T* (- P\351rim\350tre \(login valide / invalide / lock user / performance user etc.\)) Tj T* (- Crit\350res d'acceptation) Tj T* (- Definition of Done) Tj T* (- Tags \(QA, automation, login, regression\)) Tj T*  T* (Format attendu : pr\352t \340 copier dans Jira.) Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 256 m 481.8898 256 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 256 l S
+n 481.8898 0 m 481.8898 256 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 256 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 435.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (R\351sultat obtenu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+.058824 .090196 .164706 rg
+BT 1 0 0 1 14 4 Tm /F1 10 Tf 14 TL (Claude lit la sp\351cification et retrouve l'identifiant Jira du testeur.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 401.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Ticket ) Tj /F2 10 Tf (KAN-20) Tj /F1 10 Tf ( cr\351\351 en ) Tj /F2 10 Tf (To Do) Tj /F1 10 Tf (, priorit\351 Medium, labels ) Tj /F4 10 Tf (QA, automation, login, regression) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 389.8661 cm
+Q
+q
+1 0 0 1 62.69291 367.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 22 TL /F2 18 Tf .85098 .466667 .341176 rg (02) Tj .117647 .105882 .294118 rg ( Conception BDD \(Gherkin\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf .278431 .333333 .411765 rg (R\364le :) Tj /F1 9.5 Tf ( Expert QA Automation | ) Tj /F2 9.5 Tf (MCP :) Tj /F1 9.5 Tf ( aucun \(g\351n\351ration\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 325.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 137.8661 cm
+q
+.945098 .960784 .976471 rg
+n 0 184 481.8898 -184 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 159.2 Tm /F5 8.8 Tf 12 TL (Tu es un expert QA Automation.) Tj T* (Lis le document de sp\351cification du module Login.) Tj T*  T* (Actions requises :) Tj T* (1. Identifie toutes les fonctionnalit\351s du login.) Tj T* (2. G\351n\350re tous les sc\351narios possibles de test \(positifs, n\351gatifs,) Tj T* (   edge cases\).) Tj T* (3. Transforme ces sc\351narios en format Cucumber \(Gherkin\).) Tj T*  T* (Format attendu :) Tj T* (Feature: Login) Tj T* (Scenario: [Nom du sc\351nario]) Tj T* (Inclure : Given / When / Then, cas utilisateur valide/invalide/bloqu\351,) Tj T* (mot de passe incorrect, champs vides et comportement UI attendu.) Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 184 m 481.8898 184 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 184 l S
+n 481.8898 0 m 481.8898 184 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 184 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 5103
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .466667 .341176 rg
+n 0 835.8898 595.2756 6 re f*
+BT /F1 8 Tf 9.6 TL ET
+.278431 .333333 .411765 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (Guide Strat\351gique de Prompts QA Automation  |  Claude x MCP) Tj T* ET
+BT 1 0 0 1 513.2307 34.01575 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 769.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Exemple de sc\351nario g\351n\351r\351) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 653.8661 cm
+q
+.945098 .960784 .976471 rg
+n 0 112 481.8898 -112 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 87.2 Tm /F5 8.8 Tf 12 TL (@smoke @regression) Tj T* (Scenario: Connexion r\351ussie avec l'utilisateur standard) Tj T* (  Given je suis sur la page de connexion "https://www.saucedemo.com/") Tj T* (  When je saisis le username "standard_user") Tj T* (  And je saisis le password "secret_sauce") Tj T* (  And je clique sur le bouton "Login") Tj T* (  Then je suis redirig\351 vers la page d'inventaire "/inventory.html") Tj T* (  And le titre de la page est "Swag Labs") Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 112 m 481.8898 112 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 112 l S
+n 481.8898 0 m 481.8898 112 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 112 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 647.8661 cm
+Q
+q
+1 0 0 1 62.69291 618.8661 cm
+q
+BT 1 0 0 1 0 19 Tm 14.5 TL /F1 10 Tf .058824 .090196 .164706 rg (Le fichier complet couvre les cas positifs, n\351gatifs, edge cases, session, s\351curit\351 et performance) Tj T* (\() Tj /F4 10 Tf (features/login.feature) Tj /F1 10 Tf ( dans le d\351p\364t GitHub\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 604.8661 cm
+Q
+q
+1 0 0 1 62.69291 582.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 22 TL /F2 18 Tf .85098 .466667 .341176 rg (03) Tj .117647 .105882 .294118 rg ( Ex\351cution & synchronisation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 565.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf .278431 .333333 .411765 rg (R\364le :) Tj /F1 9.5 Tf ( Ex\351cutant QA Automation | ) Tj /F2 9.5 Tf (MCP :) Tj /F1 9.5 Tf ( Selenium + Atlassian \(Jira\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 448.8661 cm
+q
+.945098 .960784 .976471 rg
+n 0 88 481.8898 -88 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 63.2 Tm /F5 8.8 Tf 12 TL (Fais l'ex\351cution avec Selenium de ce sc\351nario :) Tj T* (Scenario: Connexion r\351ussie avec l'utilisateur standard) Tj T*  T* (Workflow post-ex\351cution :) Tj T* (1. Change le statut du ticket "QA Login" sur Jira.) Tj T* (2. Ajoute un commentaire d\351taillant le r\351sultat du test au ticket KAN-20.) Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 88 m 481.8898 88 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 88 l S
+n 481.8898 0 m 481.8898 88 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 423.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (R\351sultat obtenu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 299.8661 cm
+q
+.117647 .105882 .294118 rg
+n 0 120 481.8898 -20 re f*
+1 1 1 rg
+n 0 100 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 80 481.8898 -20 re f*
+1 1 1 rg
+n 0 60 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 40 481.8898 -20 re f*
+1 1 1 rg
+n 0 20 481.8898 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 104 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Indicateur) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.9055 104 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Valeur) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\311tapes r\351ussies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.9055 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8 / 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Taux de r\351ussite) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.9055 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (100 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Dur\351e d'ex\351cution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.9055 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (~3 secondes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Navigateur) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.9055 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Chrome \(Selenium WebDriver\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Ticket KAN-20) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.9055 4 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (To Do -) Tj (> Done, rapport complet en commentaire) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.4 w
+n 0 120 m 481.8898 120 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 120 l S
+n 481.8898 0 m 481.8898 120 l S
+n 0 100 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 155.9055 0 m 155.9055 120 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Length 6312
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .466667 .341176 rg
+n 0 835.8898 595.2756 6 re f*
+BT /F1 8 Tf 9.6 TL ET
+.278431 .333333 .411765 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (Guide Strat\351gique de Prompts QA Automation  |  Claude x MCP) Tj T* ET
+BT 1 0 0 1 513.2307 34.01575 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 22 TL /F2 18 Tf .85098 .466667 .341176 rg (04) Tj .117647 .105882 .294118 rg ( Workflows avanc\351s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 745.8661 cm
+q
+.278431 .333333 .411765 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Deux prompts qui encha\356nent tout le cycle et g\350rent automatiquement les \351checs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 15 TL /F2 11.5 Tf .85098 .466667 .341176 rg (4.1 Am\351lioration & reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 532.8661 cm
+q
+.945098 .960784 .976471 rg
+n 0 184 481.8898 -184 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 159.2 Tm /F5 8.8 Tf 12 TL (Tu es un QA Automation Engineer expert en Jira, Cucumber et Selenium.) Tj T* (Objectif : lire uniquement le fichier \253 Am\351lioration \273 fourni et) Tj T* (automatiser tout le workflow QA autour de cette am\351lioration.) Tj T*  T* (\311tape 1 - Analyse du fichier d'am\351lioration.) Tj T* (\311tape 2 - Cr\351ation du ticket Jira TODO) Tj T* (          \(Labels : QA, Automation, Login, Enhancement) Tj T* (           | Assign\351 \340 : <EMAIL_TESTEUR>\).) Tj T* (\311tape 3 - G\351n\351ration d'un seul sc\351nario Gherkin d'acceptation.) Tj T* (\311tape 4 - Ex\351cution du test Selenium.) Tj T* (\311tape 5 - Mise \340 jour Jira :) Tj T* (          - Commentaire de reporting.) Tj T* (          - Si succ\350s -> DONE.) Tj T* (          - Si \351chec  -> IN PROGRESS.) Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 184 m 481.8898 184 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 184 l S
+n 481.8898 0 m 481.8898 184 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 184 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 507.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (R\351sultat obtenu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 383.8661 cm
+q
+.117647 .105882 .294118 rg
+n 0 120 481.8898 -20 re f*
+1 1 1 rg
+n 0 100 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 80 481.8898 -20 re f*
+1 1 1 rg
+n 0 60 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 40 481.8898 -20 re f*
+1 1 1 rg
+n 0 20 481.8898 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 104 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (\311tape) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 104 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (R\351sultat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1 - Analyse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Ajout de l'utilisateur Claude123 / secret_sauce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2 - Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Ticket KAN-21 cr\351\351 en To Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3 - Gherkin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1 sc\351nario @enhancement @acceptance @login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4 - Selenium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 24 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf .862745 .14902 .14902 rg (FAILED) Tj /F1 9 Tf .058824 .090196 .164706 rg ( : Claude123 non reconnu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5 - Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 4 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (KAN-21 -) Tj (> In Progress, rapport post\351) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.4 w
+n 0 120 m 481.8898 120 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 120 l S
+n 481.8898 0 m 481.8898 120 l S
+n 0 100 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 113.3858 0 m 113.3858 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 358.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (4.2 Gestion des anomalies \(bug tracking\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 266.8661 cm
+q
+.945098 .960784 .976471 rg
+n 0 88 481.8898 -88 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 63.2 Tm /F5 8.8 Tf 12 TL (Analyse le ticket d'am\351lioration apr\350s l'ex\351cution des tests.) Tj T* (Si un bug est d\351tect\351 :) Tj T* (- Cr\351er un nouveau ticket BUG en statut TODO.) Tj T* (- Ajouter la description d\351taill\351e de l'anomalie.) Tj T* (- Lier techniquement le ticket BUG au ticket QA Enhancement concern\351.) Tj T* (- Assigner le ticket \340 : <EMAIL_TESTEUR>) Tj T* ET
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.6 w
+n 0 88 m 481.8898 88 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 88 l S
+n 481.8898 0 m 481.8898 88 l S
+.85098 .466667 .341176 RG
+3 w
+n 0 0 m 0 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 241.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (R\351sultat obtenu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 223.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Ticket ) Tj /F2 10 Tf (KAN-22) Tj /F1 10 Tf ( : ) Tj /F4 10 Tf ([BUG] L'utilisateur Claude123 n'est pas reconnu par l'application) Tj /F1 10 Tf (, priorit\351 ) Tj /F2 10 Tf (High) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 193.8661 cm
+q
+BT 1 0 0 1 4 18 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+.058824 .090196 .164706 rg
+BT 1 0 0 1 14 18 Tm /F1 10 Tf 14 TL (Rapport structur\351 : \351tapes de reproduction, comportement attendu / observ\351, donn\351es de l'assertion) Tj T* (Selenium.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Lien Jira ) Tj /F2 10 Tf (KAN-22 blocks KAN-21) Tj /F1 10 Tf ( + commentaire de tra\347abilit\351 sur KAN-21.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Length 5210
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .466667 .341176 rg
+n 0 835.8898 595.2756 6 re f*
+BT /F1 8 Tf 9.6 TL ET
+.278431 .333333 .411765 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (Guide Strat\351gique de Prompts QA Automation  |  Claude x MCP) Tj T* ET
+BT 1 0 0 1 513.2307 34.01575 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.117647 .105882 .294118 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Bonnes pratiques de prompting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 745.8661 cm
+q
+.278431 .333333 .411765 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Ce qui rend ces prompts fiables et reproductibles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 597.8661 cm
+q
+.117647 .105882 .294118 rg
+n 0 140 481.8898 -20 re f*
+1 1 1 rg
+n 0 120 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 100 481.8898 -20 re f*
+1 1 1 rg
+n 0 80 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 60 481.8898 -20 re f*
+1 1 1 rg
+n 0 40 481.8898 -20 re f*
+.945098 .960784 .976471 rg
+n 0 20 481.8898 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Technique) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Exemple) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Pourquoi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (R\364le explicite) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\253 Tu es un expert QA et Jira \273) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 104 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Cadre le niveau d'expertise et le vocabulaire) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Contexte limit\351) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\253 Lis seulement le fichier Login \273) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 84 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\311vite le m\351lange de sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\311tapes num\351rot\351es) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\311tape 1 ... \311tape 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 64 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Workflow d\351terministe et tra\347able) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Format impos\351) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Feature / Scenario / Given-When-Then) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 44 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Sortie directement exploitable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (R\350gles conditionnelles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 24 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .058824 .090196 .164706 rg (Succ\350s -) Tj (> Done, \351chec -) Tj (> In Progress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 24 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (La d\351cision est automatis\351e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Crit\350res de fin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.7165 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Definition of Done dans le ticket) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4646 4 cm
+q
+.058824 .090196 .164706 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Le r\351sultat est v\351rifiable) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.4 w
+n 0 140 m 481.8898 140 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 140 l S
+n 481.8898 0 m 481.8898 140 l S
+n 0 120 m 481.8898 120 l S
+n 0 100 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 107.7165 0 m 107.7165 140 l S
+n 283.4646 0 m 283.4646 140 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 583.8661 cm
+Q
+q
+1 0 0 1 62.69291 558.8661 cm
+q
+.85098 .466667 .341176 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Ressources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (D\351p\364t GitHub : ) Tj /F2 10 Tf (github.com/adama007/claude-mcp-qa-automation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Configuration des serveurs MCP : ) Tj /F4 10 Tf (docs/mcp-setup.md) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.8661 cm
+q
+BT 1 0 0 1 4 4 Tm /F1 10 Tf 12 TL .058824 .090196 .164706 rg (-) Tj ET
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .058824 .090196 .164706 rg (Rapports g\351n\351r\351s : ) Tj /F4 10 Tf (reports/KAN-20_execution_report.md) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (reports/KAN-22_bug_report.md) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 476.8661 cm
+Q
+q
+1 0 0 1 62.69291 463.8661 cm
+q
+.278431 .333333 .411765 rg
+BT 1 0 0 1 0 3.5 Tm /F4 9.5 Tf 13 TL (Guide g\351n\351r\351 pour l'optimisation des processus de test logiciel.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000556 00000 n 
+0000000665 00000 n 
+0000000780 00000 n 
+0000000885 00000 n 
+0000001090 00000 n 
+0000001295 00000 n 
+0000001501 00000 n 
+0000001707 00000 n 
+0000001913 00000 n 
+0000001983 00000 n 
+0000002302 00000 n 
+0000002395 00000 n 
+0000010315 00000 n 
+0000019186 00000 n 
+0000023593 00000 n 
+0000028748 00000 n 
+0000035112 00000 n 
+trailer
+<<
+/ID 
+[<f01b238b4be57e82764c2b4056c0dca7><f01b238b4be57e82764c2b4056c0dca7>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 14 0 R
+/Root 13 0 R
+/Size 22
+>>
+startxref
+40374
+%%EOF
