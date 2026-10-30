@@ -1,6 +1,6 @@
 # 🎥 Démonstration
 
-> 📺 **Vidéo :** [voir la démo sur LinkedIn](#) <!-- Remplacer # par le lien du post LinkedIn -->
+> 📺 **Vidéo (2 min) :** [voir la démo sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7521971767494471680/)
 
 ## Déroulé de la démo
 
