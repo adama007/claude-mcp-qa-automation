@@ -109,6 +109,8 @@ claude-mcp-qa-automation/
 │   ├── Guide_Prompts_QA_Workflow.pdf
 │   ├── mcp-setup.md    # Installation des serveurs MCP
 │   └── demo.md         # Déroulé de la vidéo de démonstration
+├── scripts/
+│   └── build_pdf.py    # Régénère le guide PDF (pip install reportlab)
 ├── config/             # Exemple de configuration Claude Desktop
 └── assets/
 ```
